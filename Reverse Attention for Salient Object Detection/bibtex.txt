@@ -1,0 +1,7 @@
+@InProceedings{Chen_2018_ECCV,
+author = {Chen, Shuhan and Tan, Xiuli and Wang, Ben and Hu, Xuelong},
+title = {Reverse Attention for Salient Object Detection},
+booktitle = {The European Conference on Computer Vision (ECCV)},
+month = {September},
+year = {2018}
+}
