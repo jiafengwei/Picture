@@ -1,0 +1,12 @@
+@INPROCEEDINGS{6619115, 
+author={H. Jiang and J. Wang and Z. Yuan and Y. Wu and N. Zheng and S. Li}, 
+booktitle={2013 IEEE Conference on Computer Vision and Pattern Recognition}, 
+title={Salient Object Detection: A Discriminative Regional Feature Integration Approach}, 
+year={2013}, 
+volume={}, 
+number={}, 
+pages={2083-2090}, 
+keywords={image segmentation;learning (artificial intelligence);object detection;regression analysis;salient object detection;discriminative regional feature integration;heuristic computational model;saliency map computation;regression problem;multilevel image segmentation;supervised learning;regional feature vector;saliency score;regional contrast;regional property;regional backgroundness descriptor;master saliency map;Image segmentation;Vectors;Image color analysis;Feature extraction;Object detection;Histograms;Training}, 
+doi={10.1109/CVPR.2013.271}, 
+ISSN={1063-6919}, 
+month={June},}
