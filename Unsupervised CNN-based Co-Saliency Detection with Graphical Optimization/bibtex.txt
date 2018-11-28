@@ -1,0 +1,7 @@
+@InProceedings{Hsu_2018_ECCV,
+author = {Hsu, Kuang-Jui and Tsai, Chung-Chi and Lin, Yen-Yu and Qian, Xiaoning and Chuang, Yung-Yu},
+title = {Unsupervised CNN-based Co-Saliency Detection with Graphical Optimization},
+booktitle = {The European Conference on Computer Vision (ECCV)},
+month = {September},
+year = {2018}
+}
