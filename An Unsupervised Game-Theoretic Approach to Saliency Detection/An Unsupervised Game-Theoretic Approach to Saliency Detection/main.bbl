@@ -1,0 +1,222 @@
+\begin{thebibliography}{10}\itemsep=-1pt
+
+\bibitem{Achanta2009Frequency}
+R.~Achanta, S.~Hemami, F.~Estrada, and S.~Susstrunk.
+\newblock Frequency-tuned salient region detection.
+\newblock In {\em Proceedings of IEEE Conference on Computer Vision and Pattern
+  Recognition}, pages 1597--1604, 2009.
+
+\bibitem{Achanta2010SLIC}
+R.~Achanta, A.~Shaji, K.~Smith, A.~Lucchi, P.~Fua, and S.~Susstrunk.
+\newblock Slic superpixels.
+\newblock 2010.
+
+\bibitem{Albarelli2009Matching}
+A.~Albarelli, B.~S. Rota, A.~Torsello, and M.~Pelillo.
+\newblock Matching as a non-cooperative game.
+\newblock In {\em Proceedings of the IEEE International Conference on Computer
+  Vision}, pages 1319--1326, 2009.
+
+\bibitem{borji2015salient}
+A.~Borji, M.-M. Cheng, H.~Jiang, and J.~Li.
+\newblock Salient object detection: A benchmark.
+\newblock {\em IEEE Transactions on Image Processing}, 24(12):5706--5722, 2015.
+
+\bibitem{Borji_PAMI13}
+A.~Borji and L.~Itti.
+\newblock State-of-the-art in visual attention modeling.
+\newblock {\em IEEE Trans. Pattern Anal. Mach. Intell.}, 35(1):185--207, 2013.
+
+\bibitem{Chakraborty1999Game}
+A.~Chakraborty and J.~S. Duncan.
+\newblock Game-theoretic integration for image segmentation.
+\newblock {\em IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  21(1):12--30, 1999.
+
+\bibitem{cheng2015global}
+M.-M. Cheng, N.~J. Mitra, X.~Huang, P.~H. Torr, and S.-M. Hu.
+\newblock Global contrast based salient region detection.
+\newblock {\em IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  37(3):569--582, 2015.
+
+\bibitem{Deligkas2016An}
+A.~Deligkas, J.~Fearnley, T.~P. Igwe, and R.~Savani.
+\newblock An empirical study on computing equilibria in polymatrix games.
+\newblock 2016.
+
+\bibitem{Erdem2012Graph}
+A.~Erdem and M.~Pelillo.
+\newblock Graph transduction as a non-cooperative game.
+\newblock {\em Neural Computation}, 24(3):700--723, 2012.
+
+\bibitem{Howson1972Equilibria}
+J.~Howson, Joseph~T.
+\newblock Equilibria of polymatrix games.
+\newblock {\em Management Science}, 18(5-Part-1):312--318, 1972.
+
+\bibitem{Hummel1983On}
+R.~A. Hummel and S.~W. Zucker.
+\newblock On the foundations of relaxation labeling processes.
+\newblock {\em IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  5(3):267--287, 1983.
+
+\bibitem{Jiang2013Saliency}
+B.~Jiang, L.~Zhang, H.~Lu, C.~Yang, and M.~H. Yang.
+\newblock Saliency detection via absorbing markov chain.
+\newblock In {\em Proceedings of the IEEE International Conference on Computer
+  Vision}, pages 1665--1672, 2013.
+
+\bibitem{jiang2013salient}
+H.~Jiang, J.~Wang, Z.~Yuan, Y.~Wu, N.~Zheng, and S.~Li.
+\newblock Salient object detection: A discriminative regional feature
+  integration approach.
+\newblock In {\em Proceedings of IEEE Conference on Computer Vision and Pattern
+  Recognition}, pages 2083--2090, 2013.
+
+\bibitem{Kong2016Pattern}
+Y.~Kong, L.~Wang, X.~Liu, H.~Lu, and R.~Xiang.
+\newblock Pattern mining saliency.
+\newblock In {\em Proceedings of European Conference on Computer Vision}, 2016.
+
+\bibitem{Kr2014Geodesic}
+P.~Kr{\"{a}}henb{\"{u}}hl and V.~Koltun.
+\newblock Geodesic object proposals.
+\newblock In {\em Proceedings of European Conference on Computer Vision}, pages
+  725--739, 2014.
+
+\bibitem{Lecun1998Gradient}
+Y.~Lecun, L.~Bottou, Y.~Bengio, and P.~Haffner.
+\newblock Gradient-based learning applied to document recognition.
+\newblock {\em Proceedings of the IEEE}, 86(11):2278--2324, 1998.
+
+\bibitem{Lee_2016_CVPR}
+G.~Lee, Y.-W. Tai, and J.~Kim.
+\newblock Deep saliency with encoded low level distance map and high level
+  features.
+\newblock In {\em Proceedings of IEEE Conference on Computer Vision and Pattern
+  Recognition}, 2016.
+
+\bibitem{Li2015Visual}
+G.~Li and Y.~Yu.
+\newblock Visual saliency based on multiscale deep features.
+\newblock In {\em Proceedings of IEEE Conference on Computer Vision and Pattern
+  Recognition}, pages 5455--5463, 2015.
+
+\bibitem{li2013saliency}
+X.~Li, H.~Lu, L.~Zhang, X.~Ruan, and M.-H. Yang.
+\newblock Saliency detection via dense and sparse reconstruction.
+\newblock In {\em Proceedings of the IEEE International Conference on Computer
+  Vision}, pages 2976--2983, 2013.
+
+\bibitem{Li2014The}
+Y.~Li, X.~Hou, C.~Koch, J.~M. Rehg, and A.~L. Yuille.
+\newblock The secrets of salient object segmentation.
+\newblock In {\em Proceedings of IEEE Conference on Computer Vision and Pattern
+  Recognition}, pages 280 -- 287, 2014.
+
+\bibitem{Liu2011Learning}
+T.~Liu, J.~Sun, N.~N. Zheng, X.~Tang, and H.~Y. Shum.
+\newblock Learning to detect a salient object.
+\newblock {\em IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  33(2):353--67, 2011.
+
+\bibitem{Long2015Fully}
+J.~Long, E.~Shelhamer, and T.~Darrell.
+\newblock Fully convolutional networks for semantic segmentation.
+\newblock In {\em Proceedings of IEEE Conference on Computer Vision and Pattern
+  Recognition}, pages 1337--1342, 2015.
+
+\bibitem{Miller1991Copositive}
+D.~A. Miller and S.~W. Zucker.
+\newblock Copositive-plus lemke algorithm solves polymatrix games.
+\newblock {\em Operations Research Letters}, 10(5):285--290, 1991.
+
+\bibitem{Movahedi2010Design}
+V.~Movahedi and J.~H. Elder.
+\newblock Design and perceptual validation of performance measures for salient
+  object segmentation.
+\newblock In {\em Computer Vision and Pattern Recognition Workshops}, pages
+  49--56, 2010.
+
+\bibitem{Qin_2015_CVPR}
+Y.~Qin, H.~Lu, Y.~Xu, and H.~Wang.
+\newblock Saliency detection via cellular automata.
+\newblock In {\em Proceedings of IEEE Conference on Computer Vision and Pattern
+  Recognition}, 2015.
+
+\bibitem{Taylor1978Evolutionarily}
+P.~D. Taylor and L.~B. Jonker.
+\newblock Evolutionarily stable strategies and game dynamics.
+\newblock {\em Journal of Theoretical Biology}, 40(1-2):145--156, 1978.
+
+\bibitem{tong2015bootstrap}
+N.~Tong, H.~Lu, X.~Ruan, and M.-H. Yang.
+\newblock Salient object detection via bootstrap learning.
+\newblock In {\em Proceedings of IEEE Conference on Computer Vision and Pattern
+  Recognition}, pages 1884--1892, 2015.
+
+\bibitem{Torsello2006Grouping}
+A.~Torsello, S.~R. Bulo, and M.~Pelillo.
+\newblock Grouping with asymmetric affinities: A game-theoretic perspective.
+\newblock In {\em Proceedings of IEEE Conference on Computer Vision and Pattern
+  Recognition}, pages 292--299, 2006.
+
+\bibitem{Tu2012Unsupervised}
+Z.~Tu, Z.~H. Zhou, W.~Wang, J.~Jiang, and B.~Wang.
+\newblock Unsupervised metric fusion by cross diffusion.
+\newblock In {\em Proceedings of IEEE Conference on Computer Vision and Pattern
+  Recognition}, pages 2997--3004, 2012.
+
+\bibitem{Wang2015Deep}
+L.~Wang, H.~Lu, R.~Xiang, and M.~H. Yang.
+\newblock Deep networks for saliency detection via local estimation and global
+  search.
+\newblock In {\em Proceedings of IEEE Conference on Computer Vision and Pattern
+  Recognition}, pages 3183--3192, 2015.
+
+\bibitem{Wang2016Saliency}
+L.~Wang, L.~Wang, H.~Lu, P.~Zhang, and R.~Xiang.
+\newblock Saliency detection with recurrent fully convolutional networks.
+\newblock In {\em Proceedings of European Conference on Computer Vision}, 2016.
+
+\bibitem{Wang2016GraB}
+Q.~Wang, W.~Zheng, and R.~Piramuthu.
+\newblock Grab: Visual saliency via novel graph model and background priors.
+\newblock In {\em Proceedings of IEEE Conference on Computer Vision and Pattern
+  Recognition}, 2016.
+
+\bibitem{Tiantian2016Kernelized}
+T.~Wang, L.~Zhang, H.~Lu, C.~Sun, and J.~Qi.
+\newblock Kernelized subspace ranking for saliency detection.
+\newblock In {\em Proceedings of European Conference on Computer Vision}, 2016.
+
+\bibitem{Weibull1999Eolutionary}
+J.~W. Weibull.
+\newblock {\em Eolutionary Game Theory}.
+\newblock MIT Press,, 1999.
+
+\bibitem{Yan2013Hierarchical}
+Q.~Yan, L.~Xu, J.~Shi, and J.~Jia.
+\newblock Hierarchical saliency detection.
+\newblock In {\em Proceedings of IEEE Conference on Computer Vision and Pattern
+  Recognition}, pages 1155--1162, 2013.
+
+\bibitem{yang2013saliency}
+C.~Yang, L.~Zhang, H.~Lu, X.~Ruan, and M.-H. Yang.
+\newblock Saliency detection via graph-based manifold ranking.
+\newblock In {\em Proceedings of IEEE Conference on Computer Vision and Pattern
+  Recognition}, pages 3166--3173, 2013.
+
+\bibitem{zhao2015saliency}
+R.~Zhao, W.~Ouyang, H.~Li, and X.~Wang.
+\newblock Saliency detection by multi-context deep learning.
+\newblock In {\em Proceedings of IEEE Conference on Computer Vision and Pattern
+  Recognition}, pages 1265--1274, 2015.
+
+\bibitem{zhu2014saliency}
+W.~Zhu, S.~Liang, Y.~Wei, and J.~Sun.
+\newblock Saliency optimization from robust background detection.
+\newblock In {\em Proceedings of IEEE Conference on Computer Vision and Pattern
+  Recognition}, pages 2814--2821, 2014.
+
+\end{thebibliography}
