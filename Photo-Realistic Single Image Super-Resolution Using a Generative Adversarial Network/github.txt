@@ -1,0 +1,17 @@
+
+
+官方源码：tensorflow==0.10.0rc0  https://github.com/david-gpu/srez
+TensorFlow 1.4 and the TensorLayer 1.8.0+.    https://github.com/tensorlayer/srgan
+pytorch 
+1. https://github.com/leftthomas/SRGAN
+2. https://github.com/aitorzip/PyTorch-SRGAN
+3. https://github.com/mseitzer/srgan
+
+
+ESRGAN (Enhanced SRGAN) PyTorch >= 0.4.0 https://github.com/xinntao/ESRGAN
+
+超分算法模型代码集合pytorch 0.4.0
+https://github.com/icpm/super-resolution
+https://github.com/yiyang7/cs231n_proj
+
+
