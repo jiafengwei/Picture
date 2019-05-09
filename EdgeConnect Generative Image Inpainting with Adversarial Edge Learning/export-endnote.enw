@@ -1,0 +1,31 @@
+﻿%0 Electronic Article
+%T EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning
+%A Nazeri, Kamyar
+%A Ng, Eric
+%A Joseph, Tony
+%A Qureshi, Faisal Z.
+%A Ebrahimi, Mehran
+%B arXiv e-prints
+%D 2019
+%8 January 01, 2019
+%K Computer Science - Computer Vision and Pattern Recognition
+%U https://ui.adsabs.harvard.edu/abs/2019arXiv190100212N
+%Z Code and data: https://github.com/knazeri/edge-connect
+%X Over the last few years, deep learning techniques have yielded
+significant improvements in image inpainting. However, many of these
+techniques fail to reconstruct reasonable structures as they are
+commonly over-smoothed and/or blurry. This paper develops a new approach
+for image inpainting that does a better job of reproducing filled
+regions exhibiting fine details. We propose a two-stage adversarial
+model EdgeConnect that comprises of an edge generator followed by an
+image completion network. The edge generator hallucinates edges of the
+missing region (both regular and irregular) of the image, and the image
+completion network fills in the missing regions using hallucinated edges
+as a priori. We evaluate our model end-to-end over the publicly
+available datasets CelebA, Places2, and Paris StreetView, and show that
+it outperforms current state-of-the-art techniques quantitatively and
+qualitatively. Code and models available at: https://github.com/knazeri
+/edge-connect
+%= eprint: arXiv:1901.00212
+
+
