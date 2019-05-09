@@ -1,0 +1,7 @@
+《彩票假设：寻找稀疏的、可训练的神经网络》
+
+作者：Jonathan Frankle, Michael Carbin
+
+作者机构：MIT CSAIL
+
+论文地址：https://openreview.net/forum?id=rJl-b3RcF7
